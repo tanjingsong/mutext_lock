@@ -8,6 +8,10 @@
 
 [Locks实现:背后不为人知的故事 - MySpace (hitzhangjie.pro)](https://www.hitzhangjie.pro/blog/2021-04-17-locks实现那些不为人知的故事/)
 
+[MESI协议 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/MESI协议)
+
+https://os2.unexploitable.systems/cal.html  （ **LEC 13:** Lock and Synchronization  **LEC 14:** Concurrency Bugs and Deadlock）
+
 代码参考：
 
 https://github.com/malbrain/mutex
@@ -15,6 +19,11 @@ https://github.com/malbrain/mutex
 go 1.14 src/runtime/lock_futex.go
 
 openjdk1.8 hotspot\src\os_cpu\linux_x86\vm\atomic_linux_x86.inline.hpp
+
+
+-------------------------------------------------------------------------------------------
+
+
 
 ### 自旋
 
