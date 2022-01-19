@@ -195,6 +195,7 @@ int main()
 
     // 创建生产者线程
     pthread_create(&p1, NULL, producer, NULL);
+    
   
     // 创建消费者线程
     pthread_create(&p2, NULL, customer, NULL);
