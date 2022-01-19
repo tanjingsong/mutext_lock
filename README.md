@@ -12,6 +12,7 @@
 
 https://os2.unexploitable.systems/cal.html  （ **LEC 13:** Lock and Synchronization  **LEC 14:** Concurrency Bugs and Deadlock）
 
+https://docs.huihoo.com/gnu_linux/own_os/preparing-asm_3.htm   内联
 代码参考：
 
 https://github.com/malbrain/mutex
